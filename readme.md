@@ -6,9 +6,9 @@ Can detect lego train is coming by ultrasonic (codes/ -ultra.ino) or controlled 
 
 =========================================================================================
 
-![image](https://github.com/Kang-Jack/TrainLight-Lego/raw/master/png/1.png)
-![image](https://github.com/Kang-Jack/TrainLight-Lego/raw/master/png/2.png)
-![image](https://github.com/Kang-Jack/TrainLight-Lego/raw/master/png/3.png)
-![image](https://github.com/Kang-Jack/TrainLight-Lego/raw/master/png/4.png)
-![image](https://github.com/Kang-Jack/TrainLight-Lego/raw/master/png/5.png)
+![image](https://github.com/Kang-Jack/TrainLight-Lego/blob/master/images/1.png)
+![image](https://github.com/Kang-Jack/TrainLight-Lego/blob/master/images/2.png)
+![image](https://github.com/Kang-Jack/TrainLight-Lego/blob/master/images/3.png)
+![image](https://github.com/Kang-Jack/TrainLight-Lego/blob/master/images/4.png)
+![image](https://github.com/Kang-Jack/TrainLight-Lego/blob/master/images/5.png)
     
