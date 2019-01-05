@@ -4,13 +4,13 @@ An arduino project for kids
 
 Can detect lego train is coming by ultrasonic (codes/ -ultra.ino) or controlled by rip/button (codes\-rip.ino).
 
-##Reference:
+**Reference:**
 
 Ultrasonic sensor:
 
 https://dronebotworkshop.com/hc-sr04-ultrasonic-distance-sensor-arduino/
 
-## Image
+**Image:**
 ==============================================================================
 
 ![image](https://github.com/Kang-Jack/TrainLight-Lego/blob/master/images/1.png)
