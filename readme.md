@@ -4,21 +4,21 @@ An arduino project for kids
 
 Can detect lego train is coming by ultrasonic (codes/ -ultra.ino) or controlled by rip/button (codes\-rip.ino).
 
-**BOM**
+**BOM:**
 
-28BYJ-48 stepper motor
+    28BYJ-48 stepper motor
 
-ULN2003 driver 
+    ULN2003 driver 
 
-HC-SR04 Ultrasonic Distance Sensor 
+    HC-SR04 Ultrasonic Distance Sensor 
 
-Arduino UNO
+    Arduino UNO
 
 **Reference:**
 
-Ultrasonic sensor:
+    Ultrasonic sensor:
 
-https://dronebotworkshop.com/hc-sr04-ultrasonic-distance-sensor-arduino/
+    https://dronebotworkshop.com/hc-sr04-ultrasonic-distance-sensor-arduino/
 
 **Image:**
 
