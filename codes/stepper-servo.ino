@@ -10,8 +10,6 @@ int posServo = 0;
 #define ledPin1 6
 #define ledPin2 7
 
-#define MAX_DISTANCE 400
-
 //distance CM
 float duration, distance;
 
